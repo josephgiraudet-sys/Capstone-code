@@ -1,4 +1,4 @@
 plots/
 __pycache__/
-logs/
 *.pyc
+logs/
