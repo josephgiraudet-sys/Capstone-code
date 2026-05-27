@@ -1,0 +1,15 @@
+trained_population,agent,test_opponent,test_opponent_label,mean_reward,max_attainable_payoff,payoff_pct_of_max
+reciprocal,Agent trained on Reciprocal population,tft,TFT,497.6666666666667,602,82.66888150609081
+reciprocal,Agent trained on Reciprocal population,mist,suspicious TFT,493.6666666666667,599,82.41513633834168
+reciprocal,Agent trained on Reciprocal population,tftt,TFTT,643.6666666666666,802,80.25768911055694
+reciprocal,Agent trained on Reciprocal population,hard_tft,hard TFT,218.33333333333334,602,36.267995570321155
+reciprocal,Agent trained on Reciprocal population,generous_tft,generous TFT,507.0466666666666,602,84.22702104097452
+exploitative,Agent trained on Exploitative population,alld,ALLD,166.33333333333334,200,83.16666666666669
+exploitative,Agent trained on Exploitative population,prober,prober,505.0,602,83.88704318936877
+exploitative,Agent trained on Exploitative population,prober_3,prober 3,501.6666666666667,599,83.7506956037841
+exploitative,Agent trained on Exploitative population,hard_prober,hard prober,505.6666666666667,600,84.27777777777779
+mixed,Agent trained on Mixed population,tft,TFT,485.6666666666667,602,80.67552602436324
+mixed,Agent trained on Mixed population,hard_tft,hard TFT,179.33333333333334,602,29.78959025470654
+mixed,Agent trained on Mixed population,alld,ALLD,170.0,200,85.0
+mixed,Agent trained on Mixed population,prober,prober,488.6666666666667,602,81.17386489479513
+mixed,Agent trained on Mixed population,prober_3,prober 3,485.0,599,80.96828046744574

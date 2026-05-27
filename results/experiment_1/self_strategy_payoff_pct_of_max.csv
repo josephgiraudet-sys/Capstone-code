@@ -1,0 +1,12 @@
+q_trained_strategy,mean_reward,max_payoff,payoff_pct_of_max,agent
+allc,986.6666666666666,1000,98.66666666666666,Agent trained against ALLC
+alld,200.0,200,100.0,Agent trained against ALLD
+tft,520.0,600,86.66666666666667,Agent trained against TFT
+hard_tft,238.0,600,39.666666666666664,Agent trained against hard TFT
+generous_tft,522.7033333333333,600,87.11722222222221,Agent trained against generous TFT
+grudger,262.3333333333333,602,43.57696566998892,Agent trained against grudger
+soft_grudger,494.6666666666667,600,82.44444444444446,Agent trained against soft grudger
+tftt,747.0,800,93.375,Agent trained against TFTT
+prober,513.3333333333334,600,85.55555555555556,Agent trained against prober
+joss,428.02,540,79.26296296296296,Agent trained against Joss
+random,477.9066666666667,600,79.65111111111112,Agent trained against random

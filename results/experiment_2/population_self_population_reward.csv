@@ -1,0 +1,4 @@
+trained_population,agent,mean_reward,mean_reward_per_round,mean_cooperation_rate
+reciprocal,Agent trained on Reciprocal population,472.076,2.3603799999999997,0.52984
+exploitative,Agent trained on Exploitative population,419.6666666666667,2.098333333333333,0.48333333333333334
+mixed,Agent trained on Mixed population,361.73333333333335,1.8086666666666669,0.3936666666666666

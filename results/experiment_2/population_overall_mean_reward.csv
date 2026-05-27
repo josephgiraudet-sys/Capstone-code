@@ -1,0 +1,4 @@
+trained_population,mean_reward,agent
+reciprocal,403.6807692307692,Agent trained on Reciprocal population
+exploitative,447.2330769230769,Agent trained on Exploitative population
+mixed,422.82102564102564,Agent trained on Mixed population

@@ -1,0 +1,12 @@
+trained_strategy,mean_reward,agent
+allc,384.3587878787879,Agent trained against ALLC
+alld,474.22878787878784,Agent trained against ALLD
+tft,360.5236363636364,Agent trained against TFT
+hard_tft,371.88484848484853,Agent trained against hard TFT
+generous_tft,360.96727272727276,Agent trained against generous TFT
+grudger,424.7160606060606,Agent trained against grudger
+soft_grudger,377.84999999999997,Agent trained against soft grudger
+tftt,368.35484848484845,Agent trained against TFTT
+prober,423.3436363636364,Agent trained against prober
+joss,363.4809090909091,Agent trained against Joss
+random,402.4693939393939,Agent trained against random
